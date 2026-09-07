@@ -67,7 +67,7 @@
    LLMs             Competitive     Databases
    Agents           Programming     Microservices
    MLOps
-       │
+       |              |               |
        └──────────────┬───────────────┘
                       ▼
                  🏆 MASTERY
