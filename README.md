@@ -311,3 +311,42 @@ logging
                        │
                        ▼
                  Data Analysis
+
+
+                        DEEP LEARNING
+                          │
+                       PyTorch
+                          │
+             ┌────────────┼────────────┐
+             │            │            │
+           Tensors       CNNs        RNNs
+             │
+          Autograd
+             │
+       Neural Networks
+             │
+       Transformers
+             │
+           LLMs
+             │
+       RAG / Agents
+             │
+           MLOps                    DEEP LEARNING
+                          │
+                       PyTorch
+                          │
+             ┌────────────┼────────────┐
+             │            │            │
+           Tensors       CNNs        RNNs
+             │
+          Autograd
+             │
+       Neural Networks
+             │
+       Transformers
+             │
+           LLMs
+             │
+       RAG / Agents
+             │
+           MLOps
