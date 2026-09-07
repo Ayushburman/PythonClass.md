@@ -209,5 +209,24 @@ decorators
 
 ——-
 
+                         OOP
+                          │
+          ┌───────────────┼────────────────┐
+          │               │                │
+        Class           Object         Instance
+          │
+    ┌─────┼──────┐
+    │     │      │
+ Attributes Methods Properties
+    │
+    └───────────────┐
+                    ▼
+              Encapsulation
+                    │
+              Inheritance
+                    │
+              Polymorphism
+                    │
+              Abstraction
 
 
