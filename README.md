@@ -60,7 +60,7 @@
                       │
        ┌──────────────┼───────────────┐
        │              │               │
-      🤖 AI/ML       🧠 DSA          🌐 Backend
+      🤖 AI-ML       🧠 DSA          🌐 Backend
        │              │               │
    ML Engineering   Algorithms      FastAPI
    Deep Learning    LeetCode        Django
