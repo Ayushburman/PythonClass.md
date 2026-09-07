@@ -419,3 +419,48 @@ defaultdict
 bisect
 
 ——
+
+LEVEL 1
+├── Calculator
+├── Number guessing game
+├── To-do CLI
+└── Password generator
+
+        ↓
+
+LEVEL 2
+├── Web scraper
+├── File organizer
+├── Expense tracker
+├── API client
+└── Automation scripts
+
+        ↓
+
+LEVEL 3
+├── REST API
+├── Authentication system
+├── Database application
+├── Async application
+└── CLI tool
+
+        ↓
+
+LEVEL 4
+├── ML pipeline
+├── Recommendation system
+├── NLP application
+├── Computer vision system
+└── LLM application
+
+        ↓
+
+LEVEL 5
+├── Production API
+├── Distributed system
+├── AI agent
+├── MLOps pipeline
+└── Open-source package
+
+——-
+
