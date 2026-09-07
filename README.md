@@ -197,4 +197,17 @@ str        → immutable sequence
 ———
 
 
-  
+function
+   ↓
+lambda
+   ↓
+higher-order functions
+   ↓
+closures
+   ↓
+decorators
+
+——-
+
+
+
