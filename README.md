@@ -86,7 +86,7 @@
 
   ————-
 
-
+```bash
   Python
 │
 ├── Installation & Environment
@@ -128,7 +128,7 @@
     ├── continue
     └── pass
 
-
+```
 ———
 
 PROBLEM
