@@ -82,3 +82,48 @@
              └────────┬────────┘
                       ▼
                 👨‍💻 EXPERT
+
+
+  ————-
+
+
+  Python
+│
+├── Installation & Environment
+│   ├── Python interpreter
+│   ├── VS Code / IDE
+│   ├── Terminal
+│   └── Virtual environments
+│
+├── Syntax
+│   ├── Variables
+│   ├── Comments
+│   ├── Indentation
+│   └── Expressions
+│
+├── Data Types
+│   ├── int
+│   ├── float
+│   ├── bool
+│   ├── str
+│   ├── None
+│   ├── list
+│   ├── tuple
+│   ├── set
+│   └── dict
+│
+├── Operators
+│   ├── Arithmetic
+│   ├── Comparison
+│   ├── Logical
+│   ├── Assignment
+│   ├── Membership
+│   └── Identity
+│
+└── Control Flow
+    ├── if / elif / else
+    ├── for
+    ├── while
+    ├── break
+    ├── continue
+    └── pass
