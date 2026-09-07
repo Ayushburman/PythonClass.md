@@ -464,3 +464,36 @@ LEVEL 5
 
 ——-
 
+       📚 LEARN
+          ↓
+       ⌨️ CODE
+          ↓
+       🧩 SOLVE
+          ↓
+       🏗️ BUILD
+          ↓
+       🐛 DEBUG
+          ↓
+       🔍 READ CODE
+          ↓
+       ♻️ REFACTOR
+          ↓
+       🚀 SHIP
+          ↓
+       📚 LEARN MORE       📚 LEARN
+          ↓
+       ⌨️ CODE
+          ↓
+       🧩 SOLVE
+          ↓
+       🏗️ BUILD
+          ↓
+       🐛 DEBUG
+          ↓
+       🔍 READ CODE
+          ↓
+       ♻️ REFACTOR
+          ↓
+       🚀 SHIP
+          ↓
+       📚 LEARN MORE
