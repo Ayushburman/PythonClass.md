@@ -278,3 +278,19 @@ logging
           └──────────────┼──────────────┘
                          │
                      async/await
+
+
+—-
+
+
+                    CONCURRENCY
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+      Threading     Multiprocessing   AsyncIO
+          │              │              │
+        I/O             CPU           I/O
+          │              │              │
+          └──────────────┼──────────────┘
+                         │
+                     async/await
