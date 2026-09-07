@@ -131,6 +131,8 @@
 ```
 ———
 
+```bash
+
 PROBLEM
    ↓
 Break into steps
@@ -145,7 +147,7 @@ Test
    ↓
 Debug
 
-
+```
 
 ——
 
