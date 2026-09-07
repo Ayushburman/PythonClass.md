@@ -173,5 +173,28 @@ Debug
 ```
    ——-
 
-   
-   
+   list       → ordered, mutable
+tuple      → ordered, immutable
+set        → unique elements
+dict       → key → value
+str        → immutable sequence
+
+
+——-
+
+                    FUNCTIONS
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+     Parameters     Return         Scope
+        │              │              │
+   positional       values        local
+   keyword          objects       global
+   default          None          nonlocal
+   *args
+   **kwargs
+
+———
+
+
+  
