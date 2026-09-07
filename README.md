@@ -294,3 +294,20 @@ logging
           └──────────────┼──────────────┘
                          │
                      async/await
+
+
+
+                 PYTHON FOR DATA
+                       │
+        ┌──────────────┼───────────────┐
+        │              │               │
+      NumPy          Pandas       Visualization
+        │              │               │
+      arrays         DataFrame      Matplotlib
+      vectors        cleaning       Seaborn*
+      matrices       grouping       Plotly
+      broadcasting   merging
+                     time series
+                       │
+                       ▼
+                 Data Analysis
