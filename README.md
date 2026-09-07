@@ -266,3 +266,15 @@ csv
 statistics
 subprocess
 logging
+
+                    CONCURRENCY
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+      Threading     Multiprocessing   AsyncIO
+          │              │              │
+        I/O             CPU           I/O
+          │              │              │
+          └──────────────┼──────────────┘
+                         │
+                     async/await
