@@ -230,3 +230,21 @@ decorators
               Abstraction
 
 
+Normal Python
+     ↓
+List comprehensions
+     ↓
+Dict/set comprehensions
+     ↓
+Generator expressions
+     ↓
+Unpacking
+     ↓
+enumerate()
+zip()
+sorted()
+any()
+all()
+     ↓
+Pythonic code
+
