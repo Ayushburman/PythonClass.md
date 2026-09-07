@@ -127,3 +127,20 @@
     ├── break
     ├── continue
     └── pass
+
+
+———
+
+PROBLEM
+   ↓
+Break into steps
+   ↓
+Represent data
+   ↓
+Choose control flow
+   ↓
+Write Python
+   ↓
+Test
+   ↓
+Debug
