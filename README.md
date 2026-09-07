@@ -350,3 +350,54 @@ logging
        RAG / Agents
              │
            MLOps
+
+
+                 DSA
+                  │
+       ┌──────────┼──────────┐
+       │          │          │
+    Arrays     Strings    Hashing
+       │
+    Linked Lists
+       │
+    Stacks / Queues
+       │
+    Trees
+       │
+    Heaps
+       │
+    Graphs
+       │
+    Recursion
+       │
+    Backtracking
+       │
+    Greedy
+       │
+    Dynamic Programming
+       │
+    Advanced Algorithms                 DSA
+                  │
+       ┌──────────┼──────────┐
+       │          │          │
+    Arrays     Strings    Hashing
+       │
+    Linked Lists
+       │
+    Stacks / Queues
+       │
+    Trees
+       │
+    Heaps
+       │
+    Graphs
+       │
+    Recursion
+       │
+    Backtracking
+       │
+    Greedy
+       │
+    Dynamic Programming
+       │
+    Advanced Algorithms
