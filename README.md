@@ -148,6 +148,8 @@ Debug
 
 
 ——
+
+```bash
                     DATA STRUCTURES
                           │
         ┌─────────────────┼──────────────────┐
@@ -165,6 +167,6 @@ Debug
    iteration         set operations    hashing
 
 
-
+```
    ——-
    
