@@ -144,3 +144,27 @@ Write Python
 Test
    ↓
 Debug
+
+
+
+——
+                    DATA STRUCTURES
+                          │
+        ┌─────────────────┼──────────────────┐
+        │                 │                  │
+      SEQUENCE          SET                  MAP
+        │                 │                  │
+   ┌────┼────┐            │                  │
+   │    │    │            │                  │
+ list tuple str          set               dict
+   │    │    │            │                  │
+   └────┴────┘            │                  │
+        │                 │                  │
+   indexing          uniqueness        key → value
+   slicing           membership        lookup
+   iteration         set operations    hashing
+
+
+
+   ——-
+   
