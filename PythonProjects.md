@@ -66,9 +66,6 @@ Then implement detection and mitigation:
 * Model watermarking
 * API monitoring
 
-
-
-
 Deployed CV Model API
         │
         │ Queries
