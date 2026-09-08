@@ -6,6 +6,7 @@ The goal is to build **2–3 exceptional projects**, with each proving a differe
 - 🧠 Strong engineering fundamentals
   
 - 🤖 Deep ML knowledge
+  
 - 🛡️ Your unique AI + cybersecurity niche
 ---
 ## 🥇 Tier 1 — Signature Project
