@@ -17,6 +17,7 @@ The goal is to build **2–3 exceptional projects**, with each proving a differe
 This should be the project that makes you memorable instead of looking like another CV portfolio.
 ### Option 1 — Adversarial Attack & Defense Toolkit
 Build a complete pipeline that:
+
 ```text
 CV Model
    │
