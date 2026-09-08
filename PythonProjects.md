@@ -4,7 +4,7 @@ Given where you're headed — **AI/ML roles at MAANG-tier companies**, with your
 
 The goal is to build **2–3 exceptional projects**, with each proving a different signal:
 
-- 🧠 Strong engineering fundamentals
+> - 🧠 Strong engineering fundamentals
   
 - 🤖 Deep ML knowledge
   
