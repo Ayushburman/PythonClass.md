@@ -2,6 +2,8 @@
 # AI/ML Project Selection Roadmap
 Given where you're headed — **AI/ML roles at MAANG-tier companies**, with your **CV + cybersecurity combination** as the differentiator — the goal isn't to build more projects.
 
+
+
 The goal is to build **2–3 exceptional projects**, with each proving a different signal:
 
 > - 🧠 Strong engineering fundamentals
