@@ -101,6 +101,7 @@ Vision Model
 
 Document it like a security research report, not just a Jupyter notebook.
 
+
 🎯 Deliverable
 
 Any one of these projects, executed properly, can become a genuinely strong early-career portfolio piece.
