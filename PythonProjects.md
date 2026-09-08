@@ -22,7 +22,7 @@ This should be the project that makes you memorable instead of looking like anot
 ### Option 1 — Adversarial Attack & Defense Toolkit
 Build a complete pipeline that:
 
-```text
+```bash
 CV Model
    │
    ├── Generate Adversarial Examples
@@ -409,5 +409,6 @@ If executed well, that combination gives you a much more distinctive profile tha
 * Chatbot clones
 * Stock-price prediction
 
+```
 
 >
