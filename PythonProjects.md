@@ -177,6 +177,7 @@ For MAANG-style ML engineering roles, the end-to-end engineering can matter more
 
 ⸻
 
+
 🔎 OSINT + Computer Vision Fusion
 
 Leverage your existing OSINT + Nmap/security background and combine it with CV.
