@@ -12,6 +12,7 @@ The goal is to build **2–3 exceptional projects**, with each proving a differe
 ## 🥇 Tier 1 — Signature Project
 
 ### 🛡️ Adversarial ML / AI Security
+
 This should be the project that makes you memorable instead of looking like another CV portfolio.
 ### Option 1 — Adversarial Attack & Defense Toolkit
 Build a complete pipeline that:
