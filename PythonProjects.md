@@ -61,6 +61,8 @@ Then implement detection and mitigation:
 * API monitoring
 
 
+
+
 Deployed CV Model API
         │
         │ Queries
