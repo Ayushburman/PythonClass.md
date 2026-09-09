@@ -6,3 +6,4 @@ arcade
 pot
 kit
 name
+case
