@@ -8,3 +8,4 @@ kit
 name
 case
 sat
+bit
